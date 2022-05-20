@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Rob Rowland](https://media-exp1.licdn.com/dms/image/C4D03AQG6snZ1Jzt7yA/profile-displayphoto-shrink_800_800/0/1637727897356?e=1658361600&v=beta&t=fSDhERNMeCK8KqTyE6X-VeaMFtObkvBY74gpEE7cjZk)
+![Rob Rowland](https://media-exp1.licdn.com/dms/image/C4D03AQG6snZ1Jzt7yA/profile-displayphoto-shrink_800_800/0/1637727897356?e=1658361600&v=beta&t=fSDhERNMeCK8KqTyE6X-VeaMFtObkvBY74gpEE7cjZk)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
